@@ -1,1 +1,3 @@
-console.log('index.js');
+import app from "./app"
+
+app.listen(8000)
